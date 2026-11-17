@@ -1,1 +1,1 @@
-#spazio per descrivere progetto#
+spazio per descrivere progetto
